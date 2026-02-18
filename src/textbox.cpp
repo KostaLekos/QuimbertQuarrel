@@ -1,8 +1,6 @@
-
-
 #include "../include/textbox.hpp"
 
-#include "../third/raylib/src/raylib.h"
+#include "../dependencies/raylib/src/raylib.h"
 
 #include <string>
 #include <format>

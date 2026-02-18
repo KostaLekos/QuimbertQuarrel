@@ -1,7 +1,7 @@
 #include "../include/quimbert.hpp"
 #include "../include/textbox.hpp"
 
-#include "../third/raylib/src/raylib.h"
+#include "../dependencies/raylib/src/raylib.h"
 
 #include <stdexcept>
 #include <string>

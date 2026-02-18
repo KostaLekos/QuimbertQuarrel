@@ -1,6 +1,6 @@
 #pragma once
 
-#include "../third/raylib/src/raylib.h"
+#include "../dependencies/raylib/src/raylib.h"
 
 
 #include <string>
